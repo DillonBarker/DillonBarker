@@ -13,7 +13,7 @@
     <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rubyonrails.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jasmine.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>>
+</p>
 
 <hr />
 
