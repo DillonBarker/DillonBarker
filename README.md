@@ -3,7 +3,6 @@
 <h2 align="center">🛠️ Languages</h2>
 <p align="center">
    <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-   
    <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
    <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
