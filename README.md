@@ -1,26 +1,20 @@
-<h3 align="center">Hi there, I am Dillon and I am training to be a full stack developer</h3>
+<h1 align="center">Hi, I'm Dillon</h1>
+<h3 align="center">Training to be a full-stack developer</h3>
 
-<h2 align="center">🛠️ Languages</h2>
-<p align="center">
-   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/ruby.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-   <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />&nbsp;&nbsp;&nbsp;&nbsp; 
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dillonbarker" alt="dillonbarker" /> </p>
 
-<h2 align="center">:triangular_ruler: Tools</h2>
-<p align="center">
-    <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/rubyonrails.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jasmine.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-    <img height="50" width="50" alt="react" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/jquery.svg" />&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
+- 🌱 I’m currently learning **at Makers**
 
-<hr />
+- 👨‍💻 All of my projects are available at [https://dillonbarker.github.io/](https://dillonbarker.github.io/)
 
-<h2 align="center">📈 Github Stats</h2>
-<p align="center">
-    <img align="center" alt="Dills Github Stats" src="https://github-readme-stats-six-rho.vercel.app/api?username=DillonBarker&show_icons=true&hide_border=false" />
-</p>
-<p align="center">
-    <img align="center" alt="Dills Github Language Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DillonBarker&hide=html,css" />
-</p>
+- 📝 I regulary write articles on [https://dillonbarker.github.io/blog/](https://dillonbarker.github.io/blog/)
+
+- 📫 How to reach me **barker.dill98@gmail.com**
+
+- ⚡ Fun fact **I go mountain biking and love coffee!**
+
+<p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/ruby/ruby-original-wordmark.svg" alt="ruby" width="40" height="40"/></p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dillonbarker&layout=compact&hide=html" alt="dillonbarker" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dillonbarker&show_icons=true" alt="dillonbarker" /></p>
