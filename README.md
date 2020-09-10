@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dillonbarker" alt="dillonbarker" /> </p>
 
-- 🌱 I’m currently learning **at Makers**
+- 🌱 I’m currently learning at [**Makers**](https://makers.tech/)
 
 - 👨‍💻 Some of my projects are available at [portfolio](https://dillonbarker.github.io/)
 
