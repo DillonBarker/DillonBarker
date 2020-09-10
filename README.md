@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=dillonbarker" alt="dillonbarker" /> </p>
 
-<div align="center">
+<div align="left">
   
 - 🌱 I’m currently learning at [Makers](https://makers.tech/)
 
