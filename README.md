@@ -1,8 +1,8 @@
 <center>
-<h1 align="center">Hi, I'm Dillon</h1>
-<h3 align="center">Training to be a full-stack developer</h3>
+<h1 align="left">Hi, I'm Dillon</h1>
+<h3 align="left">Training to be a full-stack developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=dillonbarker" alt="dillonbarker" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dillonbarker" alt="dillonbarker" /> </p>
 
 <div align="left">
   
