@@ -14,7 +14,3 @@
 
 </div>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dillonbarker&layout=compact&hide=html" alt="dillonbarker" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dillonbarker&show_icons=true" alt="dillonbarker" /></p>
-</center>
