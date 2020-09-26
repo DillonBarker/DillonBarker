@@ -1,6 +1,6 @@
 <center>
 <h1 align="left">Hi, I'm Dillon</h1>
-<h3 align="left">Training to be a full-stack developer</h3>
+<h3 align="left">I am training to become a full-stack developer</h3>
 
 <div align="left">
   
