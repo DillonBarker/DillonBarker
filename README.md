@@ -2,8 +2,6 @@
 <h1 align="left">Hi, I'm Dillon</h1>
 <h3 align="left">Training to be a full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dillonbarker" alt="dillonbarker" /> </p>
-
 <div align="left">
   
 - I've just graduated (in September) from [Makers](https://makers.tech/)
