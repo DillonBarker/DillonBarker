@@ -5,7 +5,7 @@
 <div align="left">
   
 - I've just graduated from [Makers](https://makers.tech/)
-- Some of my projects are available at [portfolio](https://dillonbarker.github.io/)
+- Some of my projects are available at my [portfolio](https://dillonbarker.github.io/)
 - I write on my [blog](https://dillonbarker.github.io/blog/)
 - How to reach me **barker.dill98@gmail.com**
 - Fun fact **I like to go mountain biking and love coffee!** ☕
