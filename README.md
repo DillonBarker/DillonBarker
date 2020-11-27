@@ -1,6 +1,6 @@
 <center>
 <h1 align="left">Hi, I'm Dillon</h1>
-<h3 align="left">I am training to become a developer</h3>
+<h3 align="left">I am a Test Analyst</h3>
 
 <div align="left">
   
